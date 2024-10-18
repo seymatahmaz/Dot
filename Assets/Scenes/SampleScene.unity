@@ -2423,8 +2423,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 296d147cbc8e44154be7899afd06dc59, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
-  jumpForce: 500
+  speed: 5
+  jumpForce: 400
   coinText: {fileID: 758011486}
 --- !u!1 &961362582
 GameObject:
